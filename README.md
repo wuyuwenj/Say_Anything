@@ -2,6 +2,8 @@
 
 A dating sim where you can say anything — powered by real-time AI video generation.
 
+Live Demo: https://say-anything-dxwn.vercel.app/
+
 ## What Makes It Unique
 
 Unlike traditional dating sims with fixed dialogue options, **Say Anything** lets you type whatever you want. Your custom responses are evaluated by AI and rendered as real-time video reactions using [Odyssey's](https://odyssey.ml) world model.
