@@ -2,6 +2,8 @@
 
 A dating sim where you can say anything — powered by real-time AI video generation.
 
+Honarable mention at Odyssey-2 Pro Hackathon
+
 Live Demo: https://say-anything-dxwn.vercel.app/
 
 ## What Makes It Unique
